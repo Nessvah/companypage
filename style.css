@@ -114,7 +114,7 @@ that everything is crowded. */
 }
 
 /* Regarding the img styling, try to avoid using absolute units (px) on width and height
-since they make it harder to achieve responsiveness. Instead try using rem or em */
+since they make it harder to achieve responsiveness. Instead try using % to make images fluid  */
 .container img {
   width: 225px;
   height: 150px;
